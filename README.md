@@ -1,10 +1,4 @@
-＃埃玛·jiangchenhao蒋晨皓的blog
-
-### [View Live Hux Blog &rarr;](https://huangxuan.me)
-
-![](http://huangxuan.me/img/blog-desktop.jpg)
-
-
+＃Ema·jiangchenhao蒋晨皓的blog
 
 ## Boilerplate (beta)
 
