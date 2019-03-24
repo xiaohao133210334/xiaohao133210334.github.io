@@ -1,4 +1,4 @@
-# Hux Blog
+＃埃玛·jiangchenhao蒋晨皓的blog
 
 ### [View Live Hux Blog &rarr;](https://huangxuan.me)
 
